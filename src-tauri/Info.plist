@@ -1,0 +1,6 @@
+<key>NSMicrophoneUsageDescription</key>
+<string>write some text describing the usage of the permission here</string>
+<key>NSCameraUsageDescription</key>
+<string>write some text describing the usage of the permission here</string>
+<key>NSSpeechRecognitionUsageDescription</key>
+<string>write some text describing the usage of the permission here</string>
