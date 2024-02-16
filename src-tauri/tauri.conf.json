@@ -63,7 +63,7 @@
       "active": true,
       "dialog": true,
       "endpoints": [
-        "http://[::1]:5001/tauri-releases/notes/{{target}}/{{current_version}}"
+        "https://[::1]:5001/tauri-releases/notes/{{target}}/{{current_version}}"
       ],
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEJCNkM1Q0FDMjY2ODI5RDMKUldUVEtXZ21yRnhzdTZqeW5aaWltdHpMNEN2MzEvb3JPM0x2RzBmY3pGVlVlK0s1QWpmVEFTN2QK"
     },
