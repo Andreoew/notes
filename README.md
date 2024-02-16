@@ -1,5 +1,5 @@
 <p align="center"> 
-  <h1 align="center">Project carried out after NLW 2024 based on the web project for note-taking. Made upon Diego Fernandes suggestion. Developed using Tauri. <span>💜 at Rockeseat.</span></h1>
+  <h1 align="center">Project carried out after NLW 2024 based on the web project for note-taking. Made upon Diego Fernandes suggestion. Developed using Tauri. <span>Made with 💜 at Rockeseat.</span></h1>
   <img width="900px" alt="Tela" title="Tela" src="./tela.png" />
    <img width="900px" alt="Gravando" title="Gravando" src="./gravando.png" />
   <img width="900px" alt="Salvando nota" title="Salvando nota" src="./salvando-nota.png" /> 
