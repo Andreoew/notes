@@ -44,6 +44,9 @@ jobs:
         with:
           node-version: latest
           # node-version-file: '.nvmrc'
+      
+      - name: Install pnpm
+        run: npm install -g pnpm
 
       - name: Setup Rust
         run: |
